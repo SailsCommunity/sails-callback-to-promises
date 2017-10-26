@@ -1,0 +1,1 @@
+# sails-callback-to-promises
